@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-02T19:34:23 IST" name="Default suite" finished-at="2024-02-02T19:34:55 IST" duration-ms="31781">
+    <groups>
+    </groups>
+    <test started-at="2024-02-02T19:34:23 IST" name="Default test" finished-at="2024-02-02T19:34:55 IST" duration-ms="31781">
+      <class name="logintest.Logintestcases">
+        <test-method is-config="true" signature="setup()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:24 IST" name="setup" finished-at="2024-02-02T19:34:31 IST" duration-ms="7838" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginWithValidusernameandValidpassword()[pri:1, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:31 IST" name="loginWithValidusernameandValidpassword" finished-at="2024-02-02T19:34:35 IST" duration-ms="3327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginWithValidusernameandValidpassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:35 IST" name="teardown" finished-at="2024-02-02T19:34:35 IST" duration-ms="291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:35 IST" name="setup" finished-at="2024-02-02T19:34:38 IST" duration-ms="3271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginwithinvalidusernameandValidpassword()[pri:2, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:38 IST" name="loginwithinvalidusernameandValidpassword" finished-at="2024-02-02T19:34:42 IST" duration-ms="3326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithinvalidusernameandValidpassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:42 IST" name="teardown" finished-at="2024-02-02T19:34:42 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:42 IST" name="setup" finished-at="2024-02-02T19:34:45 IST" duration-ms="3172" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginwithvalidusernameandinvalidpassword()[pri:3, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:45 IST" name="loginwithvalidusernameandinvalidpassword" finished-at="2024-02-02T19:34:48 IST" duration-ms="3279" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithvalidusernameandinvalidpassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:48 IST" name="teardown" finished-at="2024-02-02T19:34:49 IST" duration-ms="242" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:49 IST" name="setup" finished-at="2024-02-02T19:34:52 IST" duration-ms="3287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginwithnousernameandnopassword()[pri:4, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:52 IST" name="loginwithnousernameandnopassword" finished-at="2024-02-02T19:34:55 IST" duration-ms="3117" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithnousernameandnopassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:logintest.Logintestcases@272113c4]" started-at="2024-02-02T19:34:55 IST" name="teardown" finished-at="2024-02-02T19:34:55 IST" duration-ms="312" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- logintest.Logintestcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
